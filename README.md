@@ -9,5 +9,5 @@ Hi! My name is Jacob. This is why you should hire me:
 - 🤙I doubt you've read this far down, but I'd like you to know that I have a light-hearted sense of humor, which I know is good for team morale.
 - Also, consider the following stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobDPoland&theme=dark&show_icons=true&hide_border=true&layout=compact) ![GitHub Streak](https://streak-stats.demolab.com?user=JacobDPoland&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobDPoland&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
