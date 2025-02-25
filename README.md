@@ -1,4 +1,4 @@
-Hi! My name is Jacob. This is why you should hire me:
+# Hi! My name is Jacob. This is why you should hire me:
 - 🤓I am a mega-nerd with a love for solving problems with technology.
 - 🐍Python is my favorite language, but I have experience in multiple programming languages, technologies, applications, and operating systems.
 - ✍️My written communication skills are fantastic. I have professional experience writing technical documents and facilitating remote communication.
