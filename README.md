@@ -8,5 +8,6 @@
 - 📃I earned an Associate's degree in high school.
 - 🤙🔒I have a light-hearted sense of humor but know when to lock in.
 - Also, consider the following stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobDPoland&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
